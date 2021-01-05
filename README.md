@@ -28,7 +28,7 @@ Python code was written to handle data from molecular dynamics simulations from 
     # the correlation functioncalculate. Then calculate the spectra as a sum of peptide, water and crosscorelation part.
    # example_4_3()
     #################### Resonance process ####################
-    # Example 5 - Calculate power spectral density from dipole moment evolution by single channel MEM method
+    # Example 5 - Calculate power spectral density from dipole moment evolution by single channel maximum entropy method (MEM)
     # Example_5()
     # Example 6 - Calculate power spectral density as Fourier transform of dipole moment time correlation function
     # Example_6()
