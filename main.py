@@ -1,4 +1,8 @@
 # This is a sample Python script.
+"""
+This code can optionally employ 'Spectrum: a Spectral Analysis Library in Python' written by Thomas Cokelaer.
+Spectrum program can be found at : http://thomas-cokelaer.info/software/spectrum/html/contents.html
+"""
 
 from dipole_lib import importDipoleData, monoExp, numFLap, biExp
 from MEM_burg import burg_AR
